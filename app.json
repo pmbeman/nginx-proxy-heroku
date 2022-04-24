@@ -5,7 +5,7 @@
     "env": {
         "TARGET": {
             "description": "proxy target https://domain:port",
-            "value": "https://baidu.com:443"
+            "value": "https://wilm.ir:443"
         }
     },
     "website": "",
